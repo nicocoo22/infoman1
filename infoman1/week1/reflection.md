@@ -1,0 +1,3 @@
+Installing MySQL locally clearly shows why databases beat simple files. Raw files lead to duplicated data, concurrency issues, and high corruption risks. A centralized DBMS like MySQL enforces data integrity and safe concurrent updates.
+
+Once student and course records go live,Security and Access Control Management becomes the top priority. The DBA must immediately create user roles and enforce strict permissions—letting students view only their own grades while giving registrars full access to course records. Establishing robust access control from day one prevents unauthorized tampering and protects sensitive data.
