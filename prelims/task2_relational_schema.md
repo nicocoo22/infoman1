@@ -1,0 +1,1 @@
+Member(member_id, member_name, phone, join_date) StorageLocation(location_code, description) Tool(tool_id, tool_name, category, purchase_date, location_code) Certification(cert_id, cert_name) Borrowing(borrow_id, member_id, tool_id, borrow_date, return_date) ToolRequirement(tool_id, cert_id) MemberCertification(member_id, cert_id, completion_date)
